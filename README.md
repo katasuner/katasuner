@@ -7,8 +7,8 @@
 - I love pole dance
 
 ### Languages and Tools
-Python
-HTML
-DJANGO
-Visual Studio Code
-Pycharm
+- Python
+- HTML
+- DJANGO
+- Visual Studio Code
+- Pycharm
