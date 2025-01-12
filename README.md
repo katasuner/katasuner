@@ -1,14 +1,17 @@
-<h1 align="center"> Hi there 👋 </h1>
+# 👩‍💻 Junior Python Developer
 
-### I'm a Backend developer
+Добро пожаловать в мой GitHub! Я начинающий разработчик с акцентом на backend-разработку и Django.
 
-- I love programming
-- I'm learning new languages
-- I love pole dance
+## 🧰 Ключевые навыки
+- **Языки программирования**: Python, C/C++, Pascal
+- **Фреймворки и технологии**: Django, Django REST Framework, Docker
+- **Веб-технологии**: HTML, CSS, JavaScript
+- **Базы данных**: SQLite, PostgreSQL
+- **Инструменты разработки**: PyCharm, VS Code, Git, GitHub
+- **Английский язык**: B1
 
-### Languages and Tools
-- Python
-- HTML
-- DJANGO
-- Visual Studio Code
-- Pycharm
+## 📫 Контакты
+- **Email**: rupasova19955@gmail.com
+- **Telegram**: https://t.me/rupasovae
+
+Буду рада сотрудничеству и обсуждению новых интересных проектов! 🚀
