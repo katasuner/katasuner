@@ -1,5 +1,4 @@
-# 👩‍💻 Junior Python Developer
-
+# 👩‍💻 Technical Support Specialist in Ozon Tech
 Добро пожаловать в мой GitHub! Я начинающий разработчик с акцентом на backend-разработку и Django.
 
 ## 🧰 Ключевые навыки
